@@ -13,7 +13,7 @@ public:
      void insert(int x);
      int indexOf(int x);
      void removeAt(int index);
-     size_t size();
+     int size();
 
 private:
     int length;

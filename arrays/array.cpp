@@ -45,6 +45,6 @@ void Array::removeAt(int index) {
     this->count--;
 }
 
-size_t Array::size() {
+int Array::size() {
     return this->count;
 }
