@@ -3,4 +3,4 @@ project(arrays)
 
 set(CMAKE_CXX_STANDARD 20)
 
-add_executable(arrays main.cpp)
+add_executable(arrays main.cpp array.h array.cpp)
